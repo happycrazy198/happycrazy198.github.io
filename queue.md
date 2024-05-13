@@ -1,5 +1,3 @@
 {
- "data": {
   "levelid": "example"
- }
 }
