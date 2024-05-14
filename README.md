@@ -1,1 +1,1 @@
-go to happycrazy198.github.io/queue for queue api
+go to https://happycrazy198.github.io/queue.md for queue api
